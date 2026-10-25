@@ -1,0 +1,12 @@
+{
+  "format_version": 1,
+  "dataset": "Step 7 public research profiles",
+  "publication_date": "2026-10-24",
+  "collection_start": "2026-04-21",
+  "collection_end": "2026-10-21",
+  "advertisements": 1778,
+  "profiles": 1488,
+  "source": "Arbetsformedlingen JobTech JobSearch and Historical APIs",
+  "source_license": "CC0",
+  "documentation": "docs/public_research.md"
+}

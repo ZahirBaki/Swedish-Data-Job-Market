@@ -1,0 +1,52 @@
+{
+  "policy_version": "step7-ai-relevant-v1",
+  "total_collected": 5023,
+  "total_successfully_classified": 3138,
+  "expanded_total": 1778,
+  "core_industry_total": 1111,
+  "usable_requirements_jobs": 1035,
+  "core_usable_requirements_jobs": 611,
+  "strict_audit_approved": 214,
+  "categories": {
+    "AI / ML Research": 351,
+    "AI Engineer": 209,
+    "Analytics Engineer": 18,
+    "BI Developer / BI Analyst": 65,
+    "Data / AI Management": 170,
+    "Data Analyst": 151,
+    "Data Architect": 28,
+    "Data Engineer": 333,
+    "Data Governance / Data Quality": 56,
+    "Data Scientist": 96,
+    "Data Warehouse / ETL Developer": 70,
+    "ML Engineer": 78,
+    "Other relevant Data & AI roles": 116,
+    "Statistician": 29,
+    "Unresolved primary category": 8
+  },
+  "core_categories": {
+    "AI / ML Research": 14,
+    "AI Engineer": 196,
+    "Analytics Engineer": 18,
+    "BI Developer / BI Analyst": 65,
+    "Data Analyst": 143,
+    "Data Architect": 28,
+    "Data Engineer": 326,
+    "Data Scientist": 88,
+    "Data Warehouse / ETL Developer": 70,
+    "ML Engineer": 77,
+    "Other relevant Data & AI roles": 86
+  },
+  "scopes": {
+    "academic_ai_ml_research": 86,
+    "adjacent": 250,
+    "core_industry": 1111,
+    "governance": 36,
+    "opportunities": 295
+  },
+  "multi_role": {
+    "multi_role": 70,
+    "not_flagged_multi_role": 1708
+  },
+  "same_content_additional_ids": 196
+}
